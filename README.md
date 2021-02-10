@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Thu, Web Developer in Paris 👋
 
 <!--
 **thu-dev/thu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
