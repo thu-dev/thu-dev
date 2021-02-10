@@ -1,4 +1,4 @@
-### Hi, I am Thu, Web Developer in Paris, France.
+### Hi, I am Thu, Web Developer in Paris, France 🌱.
 This is my GitHub where I store some of my work.
 
 View more :
