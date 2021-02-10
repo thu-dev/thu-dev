@@ -1,8 +1,9 @@
-### Hi, I am Thu, Web Developer in Paris, France 🌱.
-This is my GitHub where I store some of my work.
+### Hi, I am Thu, Web Developer in Paris 🌱.
+This is my GitHub where I store some of my work from 2021.
 
 View more :
 [Linkedin](https://www.linkedin.com/in/thu-nguyen-poirier/)
+[Twitter](https://www.twitter.com/thunguyenFR/)
 
 <!--
 **thu-dev/thu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
