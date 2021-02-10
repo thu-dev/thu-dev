@@ -2,7 +2,7 @@
 This is my GitHub where I store some of my work.
 
 View more :
-[Linkedin].(https://www.linkedin.com/in/thu-nguyen-poirier/)
+[Linkedin](https://www.linkedin.com/in/thu-nguyen-poirier/)
 
 <!--
 **thu-dev/thu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
