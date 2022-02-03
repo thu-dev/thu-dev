@@ -1,5 +1,5 @@
 ### Hi, I am Thu, Web Developer in Paris 🌱. 🇫🇷 🇺🇸 🇻🇳
-This is my GitHub where I store some of my work from 2021.
+This is my GitHub where I store some of my work.
 
 View more :
 [Linkedin](https://www.linkedin.com/in/thu-nguyen-poirier/)
