@@ -1,4 +1,4 @@
-### Hi, I am Thu, Web Developer in Paris 🌱. 🇫🇷 🇺🇸 🇻🇳
+### Hi, I am Thu, I am Automation Tester / Web Developer in Paris 🌱. 🇫🇷 🇺🇸 🇻🇳
 This is my GitHub where I store some of my work.
 
 View more :
